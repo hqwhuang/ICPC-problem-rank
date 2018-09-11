@@ -1,0 +1,257 @@
+7635&nbsp;-&nbsp;National Bomb Defusing Squad                                984
+7711&nbsp;-&nbsp;Confusing Date Format                                       984
+7638&nbsp;-&nbsp;Number of Connected Components                              982
+7673&nbsp;-&nbsp;What a Simple Research                                      798
+7636&nbsp;-&nbsp;Rational Grading                                            747
+7633&nbsp;-&nbsp;A Giveaway                                                  741
+7672&nbsp;-&nbsp;What a Ridiculous Election                                  656
+7720&nbsp;-&nbsp;Super Sum                                                   600
+7611&nbsp;-&nbsp;Virus                                                       574
+7637&nbsp;-&nbsp;Balanced String                                             573
+7601&nbsp;-&nbsp;Football                                                    509
+7676&nbsp;-&nbsp;A Boring Problem                                            457
+7671&nbsp;-&nbsp;What a Beautiful Lake                                       454
+7817&nbsp;-&nbsp;IOI 2017 Logo                                               377
+7642&nbsp;-&nbsp;Prime Distance                                              376
+7639&nbsp;-&nbsp;Extreme XOR Sum                                             360
+7722&nbsp;-&nbsp;Tale of a Happy Man                                         346
+7901&nbsp;-&nbsp;Bet                                                         338
+7712&nbsp;-&nbsp;Confusing Manuscript                                        337
+7715&nbsp;-&nbsp;Guessing Game                                               336
+7608&nbsp;-&nbsp;Robot                                                       326
+7678&nbsp;-&nbsp;JiLi Number                                                 305
+7606&nbsp;-&nbsp;Percolation                                                 293
+7719&nbsp;-&nbsp;Peculiar Microwave                                          285
+7634&nbsp;-&nbsp;Game of XOR                                                 280
+7818&nbsp;-&nbsp;MicroRNA Ranking                                            279
+7815&nbsp;-&nbsp;Tax                                                         271
+7616&nbsp;-&nbsp;Counting Cliques                                            253
+7726&nbsp;-&nbsp;A Simple Math Problem                                       239
+7714&nbsp;-&nbsp;Pay Day                                                     234
+7897&nbsp;-&nbsp;Number Theory Problem                                       228
+7902&nbsp;-&nbsp;Mr. Panda and Fantastic Beasts                              218
+7680&nbsp;-&nbsp;Doors                                                       211
+7816&nbsp;-&nbsp;Key Maker                                                   206
+7716&nbsp;-&nbsp;The Cure                                                    204
+7835&nbsp;-&nbsp;Sky Tax                                                     202
+7825&nbsp;-&nbsp;Base Stations                                               197
+7740&nbsp;-&nbsp;Coding Contest                                              194
+7718&nbsp;-&nbsp;National Disaster II                                        188
+7604&nbsp;-&nbsp;Memory Cell                                                 184
+7822&nbsp;-&nbsp;Explosion at Cafebazaar                                     182
+7612&nbsp;-&nbsp;Thickest Burger                                             180
+7614&nbsp;-&nbsp;Recursive sequence                                          179
+7713&nbsp;-&nbsp;Stress Factor                                               176
+7736&nbsp;-&nbsp;Pocky                                                       175
+7602&nbsp;-&nbsp;House Rental                                                174
+7728&nbsp;-&nbsp;Detachment                                                  168
+7589&nbsp;-&nbsp;Rearranging a Sequence                                      166
+7732&nbsp;-&nbsp;Find Small A                                                163
+7824&nbsp;-&nbsp;Rahyab                                                      163
+7899&nbsp;-&nbsp;Mr. Panda and Strips                                        157
+7735&nbsp;-&nbsp;Pocket Cube                                                 151
+7908&nbsp;-&nbsp;World Cup                                                   150
+7723&nbsp;-&nbsp;Wrestling Match                                             145
+7821&nbsp;-&nbsp;Elections                                                   144
+7670&nbsp;-&nbsp;Asa's Chess Problem                                         140
+7721&nbsp;-&nbsp;2-ME Set                                                    139
+7607&nbsp;-&nbsp;Power Supply                                                135
+7734&nbsp;-&nbsp;Relic Discovery                                             135
+7826&nbsp;-&nbsp;Skeletons                                                   134
+7613&nbsp;-&nbsp;Relative atomic mass                                        127
+7900&nbsp;-&nbsp;Ice Cream Tower                                             126
+7725&nbsp;-&nbsp;Game of Taking Stones                                       125
+7838&nbsp;-&nbsp;Coordinates                                                 113
+7603&nbsp;-&nbsp;Independent Edges                                           108
+7823&nbsp;-&nbsp;Linear Galaxy                                               100
+7610&nbsp;-&nbsp;Rounding                                                     97
+7731&nbsp;-&nbsp;Convex                                                       95
+7828&nbsp;-&nbsp;Average                                                      92
+7729&nbsp;-&nbsp;Garden of Eden                                               88
+7904&nbsp;-&nbsp;Great Cells                                                  87
+7717&nbsp;-&nbsp;All Are Equal                                                85
+7620&nbsp;-&nbsp;The Elder                                                    85
+7592&nbsp;-&nbsp;Hidden Anagrams                                              84
+7730&nbsp;-&nbsp;To begin or not to begin                                     82
+7681&nbsp;-&nbsp;Playing with Numbers                                         82
+7619&nbsp;-&nbsp;Guessing the Dice Roll                                       82
+7662&nbsp;-&nbsp;Perfect Matchings                                            80
+7833&nbsp;-&nbsp;Binary Strings                                               79
+8012&nbsp;-&nbsp;Voting Fraud                                                 77
+7727&nbsp;-&nbsp;Aninteresting game                                           76
+7744&nbsp;-&nbsp;Finding Hotels                                               76
+7675&nbsp;-&nbsp;A New Ground Heating Device                                  73
+7590&nbsp;-&nbsp;Quality of Check Digits                                      71
+7819&nbsp;-&nbsp;Möbius Strip                                                70
+7600&nbsp;-&nbsp;Bridge Park                                                  68
+7655&nbsp;-&nbsp;Every Runner is Sometimes Lonely                             67
+7656&nbsp;-&nbsp;Shooting a Smart Dart                                        67
+7903&nbsp;-&nbsp;Pandaria                                                     66
+7643&nbsp;-&nbsp;8-ball Rack                                                  66
+7834&nbsp;-&nbsp;Witcher Potion                                               65
+7724&nbsp;-&nbsp;Regular Number                                               65
+7831&nbsp;-&nbsp;ACM Tax                                                      63
+7591&nbsp;-&nbsp;Distribution Center                                          58
+7745&nbsp;-&nbsp;Tower Attack                                                 56
+8014&nbsp;-&nbsp;Birthday Pizza Party                                         55
+7640&nbsp;-&nbsp;Harmonic Matrix                                              53
+7813&nbsp;-&nbsp;One Time Pad                                                 52
+7661&nbsp;-&nbsp;The Size of the Smallest Hole                                51
+7830&nbsp;-&nbsp;Find C                                                       48
+7657&nbsp;-&nbsp;Cleaning Robot                                               48
+7658&nbsp;-&nbsp;Maximum Investment Return                                    45
+7668&nbsp;-&nbsp;Harmonic Matrix Counter                                      43
+7737&nbsp;-&nbsp;Lucky Coins                                                  41
+7595&nbsp;-&nbsp;Placing Medals on a Binary Tree                              41
+7733&nbsp;-&nbsp;Guess the number                                             36
+7618&nbsp;-&nbsp;Do not pour out                                              36
+7820&nbsp;-&nbsp;Expression                                                   36
+7829&nbsp;-&nbsp;Big Bang                                                     33
+7605&nbsp;-&nbsp;Meteorites                                                   31
+7832&nbsp;-&nbsp;Dictionary Game                                              30
+7599&nbsp;-&nbsp;Black and White Boxes                                        28
+7864&nbsp;-&nbsp;Extreme Encoding                                             26
+8053&nbsp;-&nbsp;Funny Numbers                                                26
+7827&nbsp;-&nbsp;WSI Extreme                                                  25
+7667&nbsp;-&nbsp;Surviving Probability                                        25
+7615&nbsp;-&nbsp;Winning an Auction                                           25
+7803&nbsp;-&nbsp;Evaluating Fully Parenthesized Expression                    25
+7659&nbsp;-&nbsp;The Maze Runner                                              23
+7862&nbsp;-&nbsp;LoL Tournament                                               23
+7622&nbsp;-&nbsp;New Signal Decomposition                                     23
+7641&nbsp;-&nbsp;In the Kingdom of Hirak                                      22
+7898&nbsp;-&nbsp;Hemi Palindrome                                              21
+7663&nbsp;-&nbsp;Graceful Labeling                                            21
+7686&nbsp;-&nbsp;Slim Cut                                                     20
+7739&nbsp;-&nbsp;Lambda Calculus                                              20
+7669&nbsp;-&nbsp;Binary Tree                                                  18
+8015&nbsp;-&nbsp;Alice and Bob play Contact                                   18
+7621&nbsp;-&nbsp;Query on a graph                                             18
+7811&nbsp;-&nbsp;Clustering                                                   18
+7882&nbsp;-&nbsp;Coal Mafia and Toll Tax                                      17
+7598&nbsp;-&nbsp;Cover the Polygon with Your Disk                             17
+7674&nbsp;-&nbsp;A Triangle Puzzle                                            16
+7609&nbsp;-&nbsp;Room                                                         15
+7688&nbsp;-&nbsp;Taboo                                                        15
+7689&nbsp;-&nbsp;Team Up                                                      15
+7806&nbsp;-&nbsp;Bakery Delivery Scheduler                                    15
+7596&nbsp;-&nbsp;Animal Companion in Maze                                     13
+7809&nbsp;-&nbsp;Vampire Numbers                                              13
+7666&nbsp;-&nbsp;Subsets                                                      12
+7664&nbsp;-&nbsp;Priceless Treasure                                           11
+7880&nbsp;-&nbsp;Optimal Partition                                            11
+7840&nbsp;-&nbsp;Reservoir                                                    11
+8013&nbsp;-&nbsp;ACM ICPC World Finals Accommodation                          10
+8016&nbsp;-&nbsp;Mancunian Candidate Master Forever                           10
+7906&nbsp;-&nbsp;Mr.Panda and TubeMaster                                       9
+7679&nbsp;-&nbsp;Colourful Graph                                               9
+7872&nbsp;-&nbsp;Quentin Tarantino                                             9
+7839&nbsp;-&nbsp;Alice in the Digital World                                    9
+7597&nbsp;-&nbsp;Skinny Polygon                                                9
+7849&nbsp;-&nbsp;ICPC Team Selection                                           8
+7660&nbsp;-&nbsp;University Entrance Examination and Admission                 7
+7943&nbsp;-&nbsp;WiFi Expenses                                                 7
+7743&nbsp;-&nbsp;Cliques                                                       7
+7594&nbsp;-&nbsp;Three Kingdoms of Bourdelot                                   7
+7863&nbsp;-&nbsp;Playing World War II                                          6
+7852&nbsp;-&nbsp;Balloon Distribution                                          6
+7963&nbsp;-&nbsp;Array Inversion                                               6
+7974&nbsp;-&nbsp;Long Integer Factoring                                        6
+7851&nbsp;-&nbsp;AdoraBalls                                                    5
+7742&nbsp;-&nbsp;Travel Brochure                                               5
+7879&nbsp;-&nbsp;Coal mines of Kharagpur                                       4
+7885&nbsp;-&nbsp;Cookie Flavors                                                4
+8055&nbsp;-&nbsp;Crop Monitor                                                  4
+8056&nbsp;-&nbsp;Data Security                                                 4
+7857&nbsp;-&nbsp;Go Go Go Special Action Force!                                4
+7845&nbsp;-&nbsp;Nature Reserve                                                4
+7805&nbsp;-&nbsp;Finding the Determinant                                                                                        4
+8021&nbsp;-&nbsp;Sum and Xor                                                   3
+7905&nbsp;-&nbsp;Cherry Pick                                                   3
+7940&nbsp;-&nbsp;Pacman                                                        3
+7841&nbsp;-&nbsp;Terraced fields                                               3
+7842&nbsp;-&nbsp;Message                                                       3
+7964&nbsp;-&nbsp;B_N                                                           3
+7837&nbsp;-&nbsp;Expected Number of Connected Components                       2
+7682&nbsp;-&nbsp;Peak Tram                                                     2
+7875&nbsp;-&nbsp;Seats                                                         2
+7877&nbsp;-&nbsp;Timestamps                                                    2
+8058&nbsp;-&nbsp;LUDO Cheating                                                 2
+7843&nbsp;-&nbsp;Directory Management                                          2
+7850&nbsp;-&nbsp;Olympiad Training                                             2
+7968&nbsp;-&nbsp;Finding the Best Route                                        2
+7738&nbsp;-&nbsp;Fibonacci                                                     2
+7741&nbsp;-&nbsp;Pattern                                                       2
+7593&nbsp;-&nbsp;Infallibly Crack Perplexing Cryptarithm                       2
+7814&nbsp;-&nbsp;Passwords for Sweethearts                                     2
+7677&nbsp;-&nbsp;Parrot                                                        1
+8017&nbsp;-&nbsp;Mancunian and Sonu Generate Strings                           1
+8018&nbsp;-&nbsp;Kingdom of Chef                                               1
+7665&nbsp;-&nbsp;Lightbulbs                                                    1
+7932&nbsp;-&nbsp;Forming Teams Again                                           1
+7936&nbsp;-&nbsp;Jumping Frogs III                                             1
+7939&nbsp;-&nbsp;Employee Voice Surveys                                        1
+7876&nbsp;-&nbsp;Path by a Castle                                              1
+7878&nbsp;-&nbsp;Sweet Shops of Kolkata                                        1
+7884&nbsp;-&nbsp;Bus Routes                                                    1
+7868&nbsp;-&nbsp;Precious Stones                                               1
+7874&nbsp;-&nbsp;Optimal BST Revisited                                         1
+7853&nbsp;-&nbsp;Convex Quadrilateral                                          1
+7860&nbsp;-&nbsp;Jack and Jill and Joe                                         1
+7846&nbsp;-&nbsp;Printer Scheduling                                            1
+7847&nbsp;-&nbsp;Divisor Game                                                  1
+7746&nbsp;-&nbsp;Generator and Monitor                                         1
+7804&nbsp;-&nbsp;The Election                                                  1
+7812&nbsp;-&nbsp;Green Frog and Ordering                                       1
+7836&nbsp;-&nbsp;Printing Press                                                0
+8019&nbsp;-&nbsp;ATM Queue                                                     0
+8020&nbsp;-&nbsp;Moving Clams                                                  0
+7907&nbsp;-&nbsp;Justice Rains From Above                                      0
+7683&nbsp;-&nbsp;Peak Tower                                                    0
+7684&nbsp;-&nbsp;Perfect k-ary Tree                                            0
+7685&nbsp;-&nbsp;Scaffolding                                                   0
+7687&nbsp;-&nbsp;Special Tour                                                  0
+7933&nbsp;-&nbsp;Robbery 101                                                   0
+7934&nbsp;-&nbsp;Maximizing Minimum Distance                                   0
+7935&nbsp;-&nbsp;Pinocchio                                                     0
+7937&nbsp;-&nbsp;Lost in the Cave                                              0
+7938&nbsp;-&nbsp;Chef, swamp and drones                                        0
+7941&nbsp;-&nbsp;Robots of Robin                                               0
+7942&nbsp;-&nbsp;Road Maintenance                                              0
+7881&nbsp;-&nbsp;Painting a Town                                               0
+7883&nbsp;-&nbsp;Monetize Mania                                                0
+7865&nbsp;-&nbsp;Factorial                                                     0
+7866&nbsp;-&nbsp;Men and Horses                                                0
+7867&nbsp;-&nbsp;Divide Me Please                                              0
+7869&nbsp;-&nbsp;Optimal use of Nuclear Power plant                            0
+7870&nbsp;-&nbsp;Mr Wireless                                                   0
+7871&nbsp;-&nbsp;Roads                                                         0
+7873&nbsp;-&nbsp;Chef and Points                                               0
+8051&nbsp;-&nbsp;Chabi ki talash                                               0
+8052&nbsp;-&nbsp;Darakht Lagao                                                 0
+8054&nbsp;-&nbsp;Greedy Robot                                                  0
+8057&nbsp;-&nbsp;2D Symmetric Pattern Matching                                 0
+8059&nbsp;-&nbsp;Maid selection problem                                        0
+8060&nbsp;-&nbsp;Drawing Game                                                  0
+7854&nbsp;-&nbsp;Disco Dance Debacle                                           0
+7855&nbsp;-&nbsp;Expression                                                    0
+7856&nbsp;-&nbsp;Frog Pushers                                                  0
+7858&nbsp;-&nbsp;Handbags                                                      0
+7859&nbsp;-&nbsp;Imelda's Shopping Spree                                       0
+7861&nbsp;-&nbsp;Off the Rails                                                 0
+7844&nbsp;-&nbsp;Ultimate Pipeline Game                                        0
+7848&nbsp;-&nbsp;Swimming Balls                                                0
+7965&nbsp;-&nbsp;Checking Matrix                                               0
+7966&nbsp;-&nbsp;Dividing Apple‐Pie                                          0
+7967&nbsp;-&nbsp;Easy Geometry Problem                                         0
+7969&nbsp;-&nbsp;Good Days                                                     0
+7970&nbsp;-&nbsp;Hyosong and Gwangsong                                         0
+7971&nbsp;-&nbsp;International Network Service                                 0
+7972&nbsp;-&nbsp;Jewel Store                                                   0
+7973&nbsp;-&nbsp;K‐th Graph Cut                                              0
+7617&nbsp;-&nbsp;Similar Rotations                                             0
+7623&nbsp;-&nbsp;A Random Turn Connection Game                                 0
+7624&nbsp;-&nbsp;Subsequence                                                   0
+7807&nbsp;-&nbsp;Tree Pendant                                                  0
+7808&nbsp;-&nbsp;Chocolates                                                    0
+7810&nbsp;-&nbsp;Like Father Like Son                                          0

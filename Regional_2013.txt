@@ -1,0 +1,159 @@
+6439&nbsp;-&nbsp;Pasti Pas!                                                 2162
+6434&nbsp;-&nbsp;Number Assignment                                          2095
+6609&nbsp;-&nbsp;Minimal Subarray Length                                    2001
+6653&nbsp;-&nbsp;Pattern Locker                                             1857
+6437&nbsp;-&nbsp;Power Plant                                                1689
+6740&nbsp;-&nbsp;Death Row                                                  1543
+6650&nbsp;-&nbsp;Falling Ants                                               1400
+6436&nbsp;-&nbsp;The Busiest City                                           1394
+6440&nbsp;-&nbsp;Emergency Handling                                         1218
+6441&nbsp;-&nbsp;Horrible Quiz                                              1201
+6655&nbsp;-&nbsp;Two Points Revisited                                       1163
+6659&nbsp;-&nbsp;Dromicpalin Substrings                                     1157
+6656&nbsp;-&nbsp;Watching the Kangaroo                                      1093
+6608&nbsp;-&nbsp;Cabin Baggage                                              1007
+6743&nbsp;-&nbsp;Movie                                                       965
+6602&nbsp;-&nbsp;Counting Lattice Squares                                    941
+6606&nbsp;-&nbsp;Meeting Room Arrangement                                    835
+6443&nbsp;-&nbsp;Alien Abduction Again                                       816
+6651&nbsp;-&nbsp;Game of MJ                                                  804
+6442&nbsp;-&nbsp;Coins on a Ring                                             804
+6540&nbsp;-&nbsp;Fibonacci Tree                                              758
+6657&nbsp;-&nbsp;GCD XOR                                                     737
+6435&nbsp;-&nbsp;Network Packet Ordering                                     708
+6733&nbsp;-&nbsp;Sorted Queues                                               635
+6694&nbsp;-&nbsp;Toy Boxes                                                   632
+6604&nbsp;-&nbsp;Airport Sort                                                556
+6658&nbsp;-&nbsp;Fiasco                                                      551
+6603&nbsp;-&nbsp;Seven Segment Display                                       527
+6600&nbsp;-&nbsp;Spanning trees in a secure lock pattern                     524
+6438&nbsp;-&nbsp;Railroad                                                    504
+6747&nbsp;-&nbsp;BitTorrent                                                  490
+6500&nbsp;-&nbsp;Boxes                                                       466
+6732&nbsp;-&nbsp;Arrows and Quiver                                           464
+6611&nbsp;-&nbsp;Alice's Print Service                                       460
+6692&nbsp;-&nbsp;Lucky Number                                                453
+6511&nbsp;-&nbsp;Term Project                                                449
+6748&nbsp;-&nbsp;2D-Solar System                                             430
+6605&nbsp;-&nbsp;Boxes                                                       402
+6541&nbsp;-&nbsp;GRE Words Revenge                                           397
+6633&nbsp;-&nbsp;Poor Warehouse Keeper                                       379
+6739&nbsp;-&nbsp;House of Lac                                                372
+6455&nbsp;-&nbsp;Stealing Harry Potter's Precious                            367
+6744&nbsp;-&nbsp;SMS Poll                                                    364
+6454&nbsp;-&nbsp;Lights Against Dudely                                       360
+6736&nbsp;-&nbsp;Army Formation                                              356
+6705&nbsp;-&nbsp;Little Tiger vs. Deep Monkey                                351
+6741&nbsp;-&nbsp;The Sacrificial Firepits                                    348
+6745&nbsp;-&nbsp;Traitor                                                     342
+6506&nbsp;-&nbsp;Padovan Sequence                                            336
+6632&nbsp;-&nbsp;GPA                                                         332
+6737&nbsp;-&nbsp;Cheap Gold                                                  331
+6693&nbsp;-&nbsp;Flow Game                                                   325
+6697&nbsp;-&nbsp;Homework Evaluation                                         322
+6542&nbsp;-&nbsp;Hard Disk Drive                                             314
+6698&nbsp;-&nbsp;Sightseeing Bus Drivers                                     314
+6462&nbsp;-&nbsp;Gems Fight!                                                 307
+6654&nbsp;-&nbsp;Pearl Chains                                                296
+6711&nbsp;-&nbsp;String                                                      291
+6640&nbsp;-&nbsp;Wall Painting                                               290
+6703&nbsp;-&nbsp;Hard Code                                                   285
+6536&nbsp;-&nbsp;Beautiful Soup                                              283
+6620&nbsp;-&nbsp;Josephina and RPG                                           274
+6601&nbsp;-&nbsp;Teaching Hazard                                             267
+6752&nbsp;-&nbsp;Sweeping Robot                                              259
+6621&nbsp;-&nbsp;Pocket Cube                                                 258
+6641&nbsp;-&nbsp;Ball                                                        258
+6461&nbsp;-&nbsp;Rabbit Kingdom                                              252
+6510&nbsp;-&nbsp;Stickers                                                    246
+6456&nbsp;-&nbsp;Zhuge Liang's Password                                      242
+6660&nbsp;-&nbsp;Fill the Cuboid                                             236
+6734&nbsp;-&nbsp;Ganga Fort                                                  229
+6709&nbsp;-&nbsp;Mosaic                                                      229
+6544&nbsp;-&nbsp;Just Random                                                 223
+6538&nbsp;-&nbsp;Dinner Coming Soon                                          220
+6508&nbsp;-&nbsp;Permutation Graphs                                          207
+6751&nbsp;-&nbsp;Mixed Flight Plans                                          204
+6634&nbsp;-&nbsp;Campus Design                                               201
+6700&nbsp;-&nbsp;Robin Hood Transformation                                   198
+6613&nbsp;-&nbsp;Collision                                                   197
+6696&nbsp;-&nbsp;A Generalized N-Queens Problem                              197
+6642&nbsp;-&nbsp;D Tree                                                      193
+6505&nbsp;-&nbsp;Metal                                                       189
+6652&nbsp;-&nbsp;Game of Throne                                              185
+6503&nbsp;-&nbsp;Golf Field                                                  173
+6509&nbsp;-&nbsp;Set of Rectangles                                           166
+6463&nbsp;-&nbsp;Tower Defense                                               164
+6507&nbsp;-&nbsp;Passwords                                                   156
+6535&nbsp;-&nbsp;Assignment For Princess                                     152
+6750&nbsp;-&nbsp;LED Circuit                                                 151
+6460&nbsp;-&nbsp;Ants                                                        147
+6704&nbsp;-&nbsp;Golden Radio Base                                           144
+6706&nbsp;-&nbsp;Bathysphere                                                 137
+6501&nbsp;-&nbsp;Buckets                                                     120
+6607&nbsp;-&nbsp;Traveling Fool                                              117
+6712&nbsp;-&nbsp;Tri-war                                                     106
+6618&nbsp;-&nbsp;Skycity                                                     106
+6504&nbsp;-&nbsp;International Event                                         106
+6708&nbsp;-&nbsp;RP problem                                                  102
+6637&nbsp;-&nbsp;Lunch Time                                                  101
+6614&nbsp;-&nbsp;Arnold                                                       97
+6682&nbsp;-&nbsp;Scoreboard                                                   95
+6749&nbsp;-&nbsp;Bowling Ball                                                 92
+6699&nbsp;-&nbsp;Surrounding a house                                          87
+6753&nbsp;-&nbsp;Wedding Hall                                                 69
+6617&nbsp;-&nbsp;Graph Reconstruction                                         68
+6638&nbsp;-&nbsp;Drunk                                                        66
+6502&nbsp;-&nbsp;Geometric Ornaments                                          63
+6459&nbsp;-&nbsp;Infinite Go                                                  63
+6695&nbsp;-&nbsp;Computing Inverses                                           59
+6457&nbsp;-&nbsp;Problem of Apollonius                                        57
+6639&nbsp;-&nbsp;Cirnoâs Present                                             57
+6543&nbsp;-&nbsp;ICPC Ranking                                                 55
+6616&nbsp;-&nbsp;Winter's Coming                                              47
+6727&nbsp;-&nbsp;Ant Colony                                                   47
+6635&nbsp;-&nbsp;Shoot                                                        46
+6701&nbsp;-&nbsp;Pirate's Treasure                                            43
+6684&nbsp;-&nbsp;Proper Divisor                                               40
+6715&nbsp;-&nbsp;Rich Rhyme                                                   36
+6723&nbsp;-&nbsp;Olympic Village                                              35
+6719&nbsp;-&nbsp;Changing Money                                               34
+6610&nbsp;-&nbsp;Safari Park                                                  33
+6537&nbsp;-&nbsp;Clumsy Algorithm                                             32
+6464&nbsp;-&nbsp;Candy Factory                                                32
+6636&nbsp;-&nbsp;Circular Lamps                                               32
+6713&nbsp;-&nbsp;Harddisk                                                     31
+6619&nbsp;-&nbsp;LIKE vs CANDLE                                               29
+6683&nbsp;-&nbsp;Network Upgrade                                              25
+6718&nbsp;-&nbsp;Merging Files                                                18
+6691&nbsp;-&nbsp;Number Game                                                  13
+6722&nbsp;-&nbsp;Election Campaign                                            12
+6716&nbsp;-&nbsp;Family of Recurrences                                        11
+6735&nbsp;-&nbsp;Draupadi's Swayamvar                                          9
+6687&nbsp;-&nbsp;Cipher                                                        9
+6714&nbsp;-&nbsp;Walking Path                                                  9
+6702&nbsp;-&nbsp;Minimum-upset tournaments                                     8
+6720&nbsp;-&nbsp;Multi-Peg Tower of Hanoi                                      7
+6738&nbsp;-&nbsp;Bridges                                                       6
+6707&nbsp;-&nbsp;Min-max-multiply                                              6
+6730&nbsp;-&nbsp;Sequence Alignment                                            6
+6731&nbsp;-&nbsp;Nomad Camp                                                    6
+6615&nbsp;-&nbsp;Easy Problem Once More                                        5
+6612&nbsp;-&nbsp;Bob's new toy                                                 4
+6717&nbsp;-&nbsp;Chocolate Division                                            4
+6726&nbsp;-&nbsp;One-Way Roads                                                 4
+6742&nbsp;-&nbsp;Planetary Alignment                                           2
+6689&nbsp;-&nbsp;Welcome                                                       2
+6458&nbsp;-&nbsp;Random Number Generator                                       2
+6724&nbsp;-&nbsp;Stairway Reduction                                            2
+6539&nbsp;-&nbsp;Exhausted Robot                                               1
+6685&nbsp;-&nbsp;Gem Mining                                                    1
+6688&nbsp;-&nbsp;Object Clustering                                             1
+6690&nbsp;-&nbsp;Geeky Fun Fact                                                1
+6725&nbsp;-&nbsp;Building Township                                             1
+6729&nbsp;-&nbsp;Toy Exchange                                                  1
+6746&nbsp;-&nbsp;Intelligent Traffic Surveillance                              1
+6710&nbsp;-&nbsp;Tower                                                         0
+6686&nbsp;-&nbsp;Meeting Point                                                 0
+6721&nbsp;-&nbsp;Rewarding the Priests                                         0
+6728&nbsp;-&nbsp;Message Coding                                                0

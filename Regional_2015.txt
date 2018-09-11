@@ -1,0 +1,201 @@
+7500&nbsp;-&nbsp;Boxes and Balls                                            2537
+7501&nbsp;-&nbsp;Business Cycle                                             1890
+7511&nbsp;-&nbsp;Multiplication Table                                       1830
+7267&nbsp;-&nbsp;Mysterious Antiques in Sackler Museum                      1544
+7512&nbsp;-&nbsp;November 11th                                              1537
+7503&nbsp;-&nbsp;Change                                                     1375
+7269&nbsp;-&nbsp;Snake Carpet                                               1229
+7188&nbsp;-&nbsp;Almost Sorted Array                                        1206
+7457&nbsp;-&nbsp;Discrete Logarithm Problem                                 1188
+7270&nbsp;-&nbsp;Osu! Master                                                 988
+7340&nbsp;-&nbsp;Sum of MSLCM                                                960
+7271&nbsp;-&nbsp;A Math Problem                                              958
+7339&nbsp;-&nbsp;Owllen                                                      909
+7336&nbsp;-&nbsp;Automatic Cheater Detection                                 868
+7505&nbsp;-&nbsp;Hungry Game of Ants                                         851
+7231&nbsp;-&nbsp;Odd Cycle                                                   844
+7302&nbsp;-&nbsp;Terrorists                                                  842
+7483&nbsp;-&nbsp;Air Conditioned Minions                                     813
+7306&nbsp;-&nbsp;Primorial vs LCM                                            781
+7337&nbsp;-&nbsp;Counting Weekend Days                                       723
+7484&nbsp;-&nbsp;Association for the Country of Mububa                       678
+7214&nbsp;-&nbsp;Arithmetical CAPTCHA                                        596
+7234&nbsp;-&nbsp;Stock                                                       585
+7228&nbsp;-&nbsp;Grid                                                        580
+7487&nbsp;-&nbsp;Association of Cats and Magical Lights                      579
+7235&nbsp;-&nbsp;3-Primes Problem                                            555
+7482&nbsp;-&nbsp;Association for Computing Machinery                         553
+7217&nbsp;-&nbsp;An ICPC Problem without Statement                           541
+7454&nbsp;-&nbsp;Parentheses                                                 525
+7338&nbsp;-&nbsp;Toll Management IV                                          521
+7301&nbsp;-&nbsp;Contest Strategy                                            520
+7263&nbsp;-&nbsp;Today Is a Rainy Day                                        516
+7480&nbsp;-&nbsp;Association for Control Over Minds                          509
+7455&nbsp;-&nbsp;Linear Ecosystem                                            507
+7529&nbsp;-&nbsp;DNA Sequencing                                              504
+7220&nbsp;-&nbsp;Dungeon Trap                                                499
+7300&nbsp;-&nbsp;Hex Code                                                    497
+7410&nbsp;-&nbsp;Kingdom of Black and White                                  473
+7523&nbsp;-&nbsp;Cameras                                                     472
+7304&nbsp;-&nbsp;Queue of Soldiers                                           466
+7237&nbsp;-&nbsp;Wheel of Numbers                                            454
+7225&nbsp;-&nbsp;Summation and Divisor                                       453
+7341&nbsp;-&nbsp;Unique Party                                                448
+7481&nbsp;-&nbsp;Association of Computer Maintenance                         432
+7264&nbsp;-&nbsp;Kejin Game                                                  428
+7522&nbsp;-&nbsp;Lobby                                                       419
+7343&nbsp;-&nbsp;Design New Capital                                          418
+7509&nbsp;-&nbsp;Dome and Steles                                             406
+7230&nbsp;-&nbsp;Log Jumping                                                 400
+7345&nbsp;-&nbsp;The Hypnotic Spirals                                        400
+7461&nbsp;-&nbsp;Separating Pebbles                                          386
+7344&nbsp;-&nbsp;Numbered Cards                                              377
+7311&nbsp;-&nbsp;Donation Packaging                                          375
+7187&nbsp;-&nbsp;Rebuild                                                     351
+7222&nbsp;-&nbsp;National Disaster                                           344
+7342&nbsp;-&nbsp;Honey King                                                  342
+7219&nbsp;-&nbsp;Problem on Group Trip                                       342
+7527&nbsp;-&nbsp;Funfair                                                     337
+7226&nbsp;-&nbsp;Coin Swap                                                   327
+7405&nbsp;-&nbsp;Friendship of Frog                                          326
+7478&nbsp;-&nbsp;Association for Cool Machineries (Part 1)                   316
+7526&nbsp;-&nbsp;Billboard                                                   313
+7192&nbsp;-&nbsp;Chip Factory                                                312
+7502&nbsp;-&nbsp;Suffixes and Palindromes                                    310
+7530&nbsp;-&nbsp;Cafebazaar                                                  309
+7303&nbsp;-&nbsp;Aquarium                                                    304
+7456&nbsp;-&nbsp;Least Crucial Node                                          300
+7308&nbsp;-&nbsp;Tom and Jerry                                               296
+7215&nbsp;-&nbsp;Udin and Ucok                                               287
+7571&nbsp;-&nbsp;Crazy Malvika discovers Crazy Fibonacci function            275
+7464&nbsp;-&nbsp;Robots                                                      249
+7528&nbsp;-&nbsp;Beehive                                                     242
+7190&nbsp;-&nbsp;Partial Tree                                                239
+7307&nbsp;-&nbsp;Automatic Scholarship Calculation                           232
+7411&nbsp;-&nbsp;LCM Walk                                                    232
+7224&nbsp;-&nbsp;Amplified Energy                                            229
+7531&nbsp;-&nbsp;Fence                                                       226
+7189&nbsp;-&nbsp;Dancing Stars on Me                                         218
+7194&nbsp;-&nbsp;House Building                                              218
+7564&nbsp;-&nbsp;Malvika conducts her own ACM-ICPC contest series            217
+7216&nbsp;-&nbsp;Counting Partition                                          208
+7572&nbsp;-&nbsp;Malvika is peculiar about color of balloons                 203
+7221&nbsp;-&nbsp;Harvest Season                                              203
+7305&nbsp;-&nbsp;Jumping Joey                                                186
+7442&nbsp;-&nbsp;Obfuscated Emails                                           184
+7568&nbsp;-&nbsp;Malvika conducts a Programming Camp                         183
+7414&nbsp;-&nbsp;Sibling Rivalry                                             180
+7566&nbsp;-&nbsp;Animesh practices some programming contests                 176
+7310&nbsp;-&nbsp;Angry Birds                                                 167
+7524&nbsp;-&nbsp;Robot                                                       162
+7460&nbsp;-&nbsp;Maximum Cut Order                                           160
+7184&nbsp;-&nbsp;Count a × b                                                156
+7232&nbsp;-&nbsp;Path                                                        155
+7233&nbsp;-&nbsp;Polynomial                                                  145
+7463&nbsp;-&nbsp;Task Review                                                 142
+7243&nbsp;-&nbsp;Frogs                                                       136
+7413&nbsp;-&nbsp;Squeeze the Cylinders                                       136
+7258&nbsp;-&nbsp;Frog and String                                             135
+7236&nbsp;-&nbsp;Tree Edit                                                   134
+7401&nbsp;-&nbsp;Binary Tree                                                 130
+7417&nbsp;-&nbsp;Deadlock Detection                                          128
+7402&nbsp;-&nbsp;Colorful Tree                                               126
+7420&nbsp;-&nbsp;Routing a Marathon Race                                     122
+7416&nbsp;-&nbsp;Bringing Order to Disorder                                  117
+7223&nbsp;-&nbsp;Alien Abduction 3                                           113
+7309&nbsp;-&nbsp;Sunlight on a Tree                                          111
+7485&nbsp;-&nbsp;Association for Convex Main Office                          109
+7412&nbsp;-&nbsp;Decimal Sequences                                           104
+7229&nbsp;-&nbsp;Kernel                                                      102
+7250&nbsp;-&nbsp;Meeting                                                     102
+7244&nbsp;-&nbsp;Game of Flying Circus                                       100
+7403&nbsp;-&nbsp;Discover Water Tank                                          99
+7241&nbsp;-&nbsp;Pagodas                                                      99
+7510&nbsp;-&nbsp;Convex Polyhedron                                            98
+7486&nbsp;-&nbsp;Apples, Cherries, and Mangos                                 96
+7415&nbsp;-&nbsp;Wall Clocks                                                  91
+7255&nbsp;-&nbsp;Land of Farms                                                90
+7246&nbsp;-&nbsp;Triple                                                       87
+7536&nbsp;-&nbsp;Jalebi Bai and Decks of Sweets                               83
+7404&nbsp;-&nbsp;Expection of String                                          80
+7218&nbsp;-&nbsp;Awesome Cipher Machine                                       78
+7462&nbsp;-&nbsp;Social Network                                               76
+7525&nbsp;-&nbsp;Laser Game                                                   76
+7507&nbsp;-&nbsp;Open Face Chinese Poker                                      75
+7409&nbsp;-&nbsp;Journey of Taku                                              75
+7227&nbsp;-&nbsp;Equilibrium State                                            70
+7257&nbsp;-&nbsp;Alice's Classified Message                                   64
+7504&nbsp;-&nbsp;Colorful Floor                                               59
+7465&nbsp;-&nbsp;Reward the Troop                                             57
+7533&nbsp;-&nbsp;The Christmas Gift                                           56
+7535&nbsp;-&nbsp;The making of a cake                                         56
+7540&nbsp;-&nbsp;Save The Trees                                               55
+7570&nbsp;-&nbsp;Malvika and Animesh play Red-Blue cards Game                 50
+7565&nbsp;-&nbsp;Animesh decides to settle down                               44
+7185&nbsp;-&nbsp;Play a game                                                  27
+7254&nbsp;-&nbsp;Immortality of Frog                                          27
+7479&nbsp;-&nbsp;Association for Cool Machineries (Part 2)                    26
+7567&nbsp;-&nbsp;Malvika gets bored along with her Cats                       25
+7249&nbsp;-&nbsp;Number Link                                                  24
+7406&nbsp;-&nbsp;Game of Arrays                                               23
+7248&nbsp;-&nbsp;Kykneion asma                                                22
+7422&nbsp;-&nbsp;Min-Max Distance Game                                        22
+7265&nbsp;-&nbsp;Stamps                                                       21
+7186&nbsp;-&nbsp;Pipes selection                                              21
+7573&nbsp;-&nbsp;Animesh does not gift Malvika on her birthday                21
+7508&nbsp;-&nbsp;Champions League                                             21
+7458&nbsp;-&nbsp;Locating Facilities                                          21
+7506&nbsp;-&nbsp;Legacy of the Void                                           19
+7451&nbsp;-&nbsp;Playground                                                   19
+7488&nbsp;-&nbsp;Association of Camera Makers                                 19
+7418&nbsp;-&nbsp;Do Geese See God?                                            19
+7262&nbsp;-&nbsp;Xiang Hex                                                    18
+7268&nbsp;-&nbsp;Archipelago Tour                                             18
+7195&nbsp;-&nbsp;Security Corporation                                         18
+7537&nbsp;-&nbsp;Samosa Bhai and his Courier Company                          18
+7542&nbsp;-&nbsp;Wait for it                                                  18
+7434&nbsp;-&nbsp;Tree Traversal                                               18
+7251&nbsp;-&nbsp;Bus Routes                                                   14
+7575&nbsp;-&nbsp;Praveen falls from a tall tree                               12
+7259&nbsp;-&nbsp;The Shields                                                  12
+7538&nbsp;-&nbsp;The Christmas Cookies                                        12
+7438&nbsp;-&nbsp;Split Sequence                                               12
+7193&nbsp;-&nbsp;Maximum Spanning Forest                                      11
+7407&nbsp;-&nbsp;Happiness of Frog                                            10
+7245&nbsp;-&nbsp;Chessboard                                                   10
+7242&nbsp;-&nbsp;Efficient Tree                                                9
+7574&nbsp;-&nbsp;Animesh has a war with tribal leader Malvika                  7
+7447&nbsp;-&nbsp;Genome                                                        7
+7532&nbsp;-&nbsp;In a planet far far away                                      7
+7436&nbsp;-&nbsp;Remote Towers                                                 7
+7191&nbsp;-&nbsp;Chess Puzzle                                                  6
+7408&nbsp;-&nbsp;Infinity Point Sets                                           6
+7439&nbsp;-&nbsp;Candies in Shape                                              5
+7441&nbsp;-&nbsp;Artillery                                                     5
+7238&nbsp;-&nbsp;Pattern String                                                5
+7240&nbsp;-&nbsp;Minimum Cut-Cut                                               5
+7443&nbsp;-&nbsp;Parallelogram                                                 4
+7252&nbsp;-&nbsp;Advanced Calculator                                           4
+7260&nbsp;-&nbsp;Kingdom of Tree                                               4
+7459&nbsp;-&nbsp;Decode Alien Message                                          4
+7266&nbsp;-&nbsp;You Are Under Arrest                                          3
+7253&nbsp;-&nbsp;Autopilot System                                              3
+7256&nbsp;-&nbsp;Matching Compressed String                                    3
+7539&nbsp;-&nbsp;Antichains                                                    3
+7446&nbsp;-&nbsp;Pepsi Distribution                                            2
+7534&nbsp;-&nbsp;The Parenthesis Tree                                          2
+7435&nbsp;-&nbsp;Automated tile slab pickup machine                            2
+7437&nbsp;-&nbsp;Rectilinear Coordinates                                       2
+7569&nbsp;-&nbsp;King Animesh decides to have a voyage to the sun              1
+7444&nbsp;-&nbsp;Egyptian Encryption                                           1
+7448&nbsp;-&nbsp;Cloud Computing                                               1
+7541&nbsp;-&nbsp;The Revenge of Jalebi Bai                                     1
+7247&nbsp;-&nbsp;John's Fences                                                 1
+7445&nbsp;-&nbsp;Work Effectiveness                                            0
+7449&nbsp;-&nbsp;Salary Adjustment                                             0
+7450&nbsp;-&nbsp;Traffic Network                                               0
+7452&nbsp;-&nbsp;Tree                                                          0
+7453&nbsp;-&nbsp;Stick Throwing                                                0
+7440&nbsp;-&nbsp;Wizard on a Segway                                            0
+7419&nbsp;-&nbsp;Rotating Cutter Bits                                          0
+7421&nbsp;-&nbsp;Post Office Investigation                                     0

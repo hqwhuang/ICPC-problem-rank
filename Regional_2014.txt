@@ -1,0 +1,188 @@
+7040&nbsp;-&nbsp;Color                                                      2839
+7146&nbsp;-&nbsp;Defeat the Enemy                                           2092
+7045&nbsp;-&nbsp;Last Defence                                               1832
+6910&nbsp;-&nbsp;Cutting Tree                                               1791
+7147&nbsp;-&nbsp;World Cup                                                  1610
+6847&nbsp;-&nbsp;Zeroes                                                     1554
+7000&nbsp;-&nbsp;Present Problem                                            1428
+6917&nbsp;-&nbsp;Decoding Baby Boos                                         1368
+6800&nbsp;-&nbsp;The Mountain of Gold?                                      1316
+6911&nbsp;-&nbsp;Double Swords                                              1311
+6802&nbsp;-&nbsp;Turtle Graphics                                            1244
+6854&nbsp;-&nbsp;City                                                       1239
+6918&nbsp;-&nbsp;And Or                                                     1214
+6837&nbsp;-&nbsp;There is No Alternative                                    1090
+6912&nbsp;-&nbsp;Prime Switch                                               1085
+6852&nbsp;-&nbsp;Blanket                                                    1081
+6832&nbsp;-&nbsp;Bit String Reordering                                      1020
+6833&nbsp;-&nbsp;Miscalculation                                             1015
+6906&nbsp;-&nbsp;Cluster Analysis                                           1008
+6926&nbsp;-&nbsp;Maximum Score                                               925
+7139&nbsp;-&nbsp;Rotation                                                    889
+6907&nbsp;-&nbsp;Body Building                                               882
+7035&nbsp;-&nbsp;Built with Qinghuai and Ari Factor                          860
+6913&nbsp;-&nbsp;I Want That Cake                                            848
+6844&nbsp;-&nbsp;Combination                                                 843
+6843&nbsp;-&nbsp;Volume Control                                              833
+6904&nbsp;-&nbsp;Travel Card                                                 829
+7014&nbsp;-&nbsp;Ideal Scoreboard                                            809
+6922&nbsp;-&nbsp;Reverse Polish Notation                                     808
+6838&nbsp;-&nbsp;Flipping Parentheses                                        793
+6921&nbsp;-&nbsp;Refraction                                                  753
+6853&nbsp;-&nbsp;Concert Tour                                                730
+6834&nbsp;-&nbsp;Shopping                                                    727
+7148&nbsp;-&nbsp;LRIP                                                        706
+6909&nbsp;-&nbsp;Kevin's Problem                                             668
+7043&nbsp;-&nbsp;International Collegiate Routing Contest                    667
+6805&nbsp;-&nbsp;Pantun Grader                                               654
+6809&nbsp;-&nbsp;Spokes Wheel                                                654
+6804&nbsp;-&nbsp;Group of Strangers                                          647
+7037&nbsp;-&nbsp;The Problem Needs 3D Arrays                                 644
+6924&nbsp;-&nbsp;Load Balancing                                              635
+6811&nbsp;-&nbsp;Irrigation Lines                                            627
+6908&nbsp;-&nbsp;Electric Bike                                               618
+6807&nbsp;-&nbsp;Túnel de Rata                                              613
+6851&nbsp;-&nbsp;The Programmers                                             608
+7012&nbsp;-&nbsp;Kings of Persia                                             603
+7058&nbsp;-&nbsp;A Curious Matt                                              593
+6915&nbsp;-&nbsp;Leveling Ground                                             570
+7143&nbsp;-&nbsp;Room Assignment                                             569
+6896&nbsp;-&nbsp;Eureka Theorem                                              566
+7141&nbsp;-&nbsp;BombX                                                       559
+7001&nbsp;-&nbsp;Bus Problem                                                 547
+6919&nbsp;-&nbsp;A game for kids                                             543
+6801&nbsp;-&nbsp;Sequence                                                    537
+7047&nbsp;-&nbsp;Chat                                                        531
+6916&nbsp;-&nbsp;Punching Robot                                              505
+6900&nbsp;-&nbsp;Road Repair                                                 500
+6836&nbsp;-&nbsp;Automotive Navigation                                       494
+7013&nbsp;-&nbsp;Web Colors                                                  481
+7008&nbsp;-&nbsp;Tactical Multiple Defense System                            480
+7065&nbsp;-&nbsp;Happy Matt Friends                                          479
+7070&nbsp;-&nbsp;The E-pang Palace                                           475
+6848&nbsp;-&nbsp;Fishing                                                     470
+6897&nbsp;-&nbsp;Exploration                                                 466
+7004&nbsp;-&nbsp;Inside, Outside or On                                       456
+6899&nbsp;-&nbsp;Permutation Cycles                                          452
+7015&nbsp;-&nbsp;Elevators                                                   449
+7018&nbsp;-&nbsp;Dragons                                                     433
+6925&nbsp;-&nbsp;Volume of Revolution                                        429
+7066&nbsp;-&nbsp;Intersection                                                420
+7017&nbsp;-&nbsp;Working Hours                                               419
+7068&nbsp;-&nbsp;K.Bro Sorting                                               414
+7041&nbsp;-&nbsp;The Problem to Slow Down You                                414
+7049&nbsp;-&nbsp;Galaxy                                                      412
+7077&nbsp;-&nbsp;Little Zu Chongzhi's Triangles                              399
+6803&nbsp;-&nbsp;Circle and Marble                                           397
+6849&nbsp;-&nbsp;Landmine Cleaner                                            391
+6835&nbsp;-&nbsp;Space Golf                                                  391
+6976&nbsp;-&nbsp;Hierarchical Notation                                       390
+7054&nbsp;-&nbsp;Osu!                                                        380
+7079&nbsp;-&nbsp;How Many Maos Does the Guanxi Worth                         380
+6979&nbsp;-&nbsp;Known Notation                                              375
+6894&nbsp;-&nbsp;Algorist Club                                               367
+6972&nbsp;-&nbsp;Domination                                                  363
+6850&nbsp;-&nbsp;Hidden Plus Signs                                           360
+7020&nbsp;-&nbsp;Robot Race                                                  355
+7003&nbsp;-&nbsp;A Balance Game on Trees                                     353
+6969&nbsp;-&nbsp;Average Score                                               351
+7021&nbsp;-&nbsp;Bus                                                         342
+6808&nbsp;-&nbsp;Best Position                                               332
+6977&nbsp;-&nbsp;Information Entropy                                         332
+7042&nbsp;-&nbsp;The Problem to Make You Happy                               332
+7061&nbsp;-&nbsp;Dire Wolf                                                   308
+6914&nbsp;-&nbsp;Maze Mayhem                                                 301
+7059&nbsp;-&nbsp;Black And White                                             297
+6806&nbsp;-&nbsp;Hari Merdeka                                                295
+7016&nbsp;-&nbsp;Antennas                                                    288
+6903&nbsp;-&nbsp;Torus                                                       287
+6901&nbsp;-&nbsp;String Transformation                                       284
+7005&nbsp;-&nbsp;Constrained maximum average                                 269
+6840&nbsp;-&nbsp;Sweet War                                                   267
+6902&nbsp;-&nbsp;Three Squares                                               256
+6970&nbsp;-&nbsp;Building Fire Stations                                      251
+6895&nbsp;-&nbsp;Deduction                                                   250
+6846&nbsp;-&nbsp;Location                                                    232
+7007&nbsp;-&nbsp;Finding Competitive Products                                228
+7050&nbsp;-&nbsp;Hatsune Miku                                                227
+7073&nbsp;-&nbsp;Song Jiang's rank list                                      218
+6905&nbsp;-&nbsp;Two Yachts                                                  199
+7078&nbsp;-&nbsp;Yue Fei's Battle                                            199
+7048&nbsp;-&nbsp;Coprime                                                     193
+7069&nbsp;-&nbsp;Dogs' Candies                                               193
+7002&nbsp;-&nbsp;Queen on Horse                                              193
+7009&nbsp;-&nbsp;Secret Binary Tree                                          183
+7149&nbsp;-&nbsp;Top ACMers                                                  154
+7060&nbsp;-&nbsp;Collision                                                   143
+6810&nbsp;-&nbsp;Ball                                                        141
+7022&nbsp;-&nbsp;Line Fiting                                                 131
+6990&nbsp;-&nbsp;Drawing Contest                                             124
+7072&nbsp;-&nbsp;Signal Interference                                         123
+7006&nbsp;-&nbsp;Folding a Binary String                                     122
+7019&nbsp;-&nbsp;Toll                                                        120
+6839&nbsp;-&nbsp;Cornering at Poles                                          104
+6898&nbsp;-&nbsp;Marbles                                                     102
+7052&nbsp;-&nbsp;Memory                                                       99
+6923&nbsp;-&nbsp;Just Some Permutations                                       94
+7063&nbsp;-&nbsp;Fluorescent                                                  86
+6920&nbsp;-&nbsp;Flood in Gridland                                            80
+7138&nbsp;-&nbsp;The Matrix Revolutions                                       71
+7039&nbsp;-&nbsp;Brushing King                                                69
+6841&nbsp;-&nbsp;Exhibition                                                   68
+7144&nbsp;-&nbsp;Game                                                         66
+7064&nbsp;-&nbsp;GRE Words Once More!                                         65
+7075&nbsp;-&nbsp;Squared Frequency                                            58
+6999&nbsp;-&nbsp;Finding Exponent                                             58
+7036&nbsp;-&nbsp;Puzzle & Dragons                                             58
+7081&nbsp;-&nbsp;Magnetos                                                     53
+6975&nbsp;-&nbsp;Garden and Sprinklers                                        48
+7056&nbsp;-&nbsp;Colorful Toy                                                 44
+7071&nbsp;-&nbsp;Yong Zheng's Death                                           43
+7076&nbsp;-&nbsp;Highway                                                      42
+7062&nbsp;-&nbsp;Everlasting L                                                40
+7074&nbsp;-&nbsp;Train Scheduling                                             39
+7142&nbsp;-&nbsp;Block the Roads                                              39
+6991&nbsp;-&nbsp;Sequence Containment                                         36
+6992&nbsp;-&nbsp;King's Dinner                                                35
+6973&nbsp;-&nbsp;Excavator Contest                                            35
+7053&nbsp;-&nbsp;NAND                                                         34
+7145&nbsp;-&nbsp;Lawn Mower                                                   33
+6842&nbsp;-&nbsp;L_{infinity} Jumps                                           32
+7140&nbsp;-&nbsp;Seat Arrangement                                             26
+7023&nbsp;-&nbsp;King's test to his sons                                      24
+6978&nbsp;-&nbsp;Jacobi Pattern                                               24
+7024&nbsp;-&nbsp;Accommodating tribal clans                                   22
+7082&nbsp;-&nbsp;Ambiguous Encodings                                          21
+7083&nbsp;-&nbsp;The One Dollar Gambler                                       19
+6974&nbsp;-&nbsp;Fiber-optic Network                                          19
+7011&nbsp;-&nbsp;Security System                                              18
+7055&nbsp;-&nbsp;Square                                                       17
+6845&nbsp;-&nbsp;Mesh Cutter                                                  17
+7033&nbsp;-&nbsp;Unlock Leonardo's Secrets                                    17
+7057&nbsp;-&nbsp;Trie                                                         16
+7046&nbsp;-&nbsp;Twelve Months                                                15
+7025&nbsp;-&nbsp;Securing Florence                                            15
+7038&nbsp;-&nbsp;The Diameter of Tree                                         15
+7084&nbsp;-&nbsp;Urdu orthography verification                                13
+7031&nbsp;-&nbsp;Teaching binary to a child                                   11
+7044&nbsp;-&nbsp;Unlimited Battery Works                                      10
+7086&nbsp;-&nbsp;A Population of Rabbits                                       8
+7026&nbsp;-&nbsp;Save the kids                                                 7
+6994&nbsp;-&nbsp;Robot Movement                                                7
+6995&nbsp;-&nbsp;BlindDate Contest                                             7
+7051&nbsp;-&nbsp;Random Inversion Machine                                      5
+6993&nbsp;-&nbsp;Interview Scheduling                                          4
+6996&nbsp;-&nbsp;Tour Planning                                                 3
+7085&nbsp;-&nbsp;Web Service Dependencies                                      3
+7027&nbsp;-&nbsp;Picking Da Vinci's successor                                  2
+7010&nbsp;-&nbsp;World Book Day                                                2
+7029&nbsp;-&nbsp;Edit Distance Revisited                                       1
+7030&nbsp;-&nbsp;Displaying Da Vinci's work                                    1
+7032&nbsp;-&nbsp;Handling the explosives                                       1
+7080&nbsp;-&nbsp;Bulletproof Car Testing                                       1
+6971&nbsp;-&nbsp;Card Game                                                     1
+7067&nbsp;-&nbsp;Just A Mistake                                                0
+7028&nbsp;-&nbsp;Connecting Army Troops                                        0
+7034&nbsp;-&nbsp;Finding Identity Integers                                     0
+6997&nbsp;-&nbsp;Pilgrimage                                                    0
+6998&nbsp;-&nbsp;Irrigating Farms                                              0

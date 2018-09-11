@@ -1,0 +1,262 @@
+8077&nbsp;-&nbsp;Brick Walls                                                 518
+8080&nbsp;-&nbsp;Christmas Tree                                              485
+8142&nbsp;-&nbsp;Meeting                                                     434
+8263&nbsp;-&nbsp;Smooth Sequences                                            430
+2317&nbsp;-&nbsp;Abiyoyo                                                     386
+8082&nbsp;-&nbsp;Megamind                                                    375
+8078&nbsp;-&nbsp;Bracket Sequence                                            347
+8273&nbsp;-&nbsp;Assigning Frequencies                                       307
+8449&nbsp;-&nbsp;The Chosen One                                              263
+8513&nbsp;-&nbsp;Lovers                                                      253
+8270&nbsp;-&nbsp;A Partial Order Relation                                    251
+8081&nbsp;-&nbsp;Leap Birthdays                                              235
+8267&nbsp;-&nbsp;Ambush                                                      235
+8264&nbsp;-&nbsp;Threesome                                                   215
+8512&nbsp;-&nbsp;XOR                                                         200
+8133&nbsp;-&nbsp;Winning ICPC                                                198
+8265&nbsp;-&nbsp;Coefficient Computation                                     196
+8085&nbsp;-&nbsp;Divisors                                                    190
+8271&nbsp;-&nbsp;Tracer Deployment                                           185
+8266&nbsp;-&nbsp;Network Report                                              183
+8135&nbsp;-&nbsp;Non-Interactive Guessing Number                             166
+8087&nbsp;-&nbsp;Bermuda Polygon                                             162
+8518&nbsp;-&nbsp;Sum of xor sum                                              159
+8083&nbsp;-&nbsp;XOR Path                                                    158
+8517&nbsp;-&nbsp;God of Gamblers                                             155
+8079&nbsp;-&nbsp;Making a Team                                               151
+8519&nbsp;-&nbsp;Arrangement for Contests                                    147
+8322&nbsp;-&nbsp;Bank Card Verifier                                          144
+8084&nbsp;-&nbsp;Angry Birds Transformers                                    141
+8328&nbsp;-&nbsp;Column Addition                                             141
+8331&nbsp;-&nbsp;Mars                                                        114
+8480&nbsp;-&nbsp;Chenchen, Tangtang and ZengZeng                             111
+8325&nbsp;-&nbsp;Barareh on Fire                                             108
+8522&nbsp;-&nbsp;LOVER II                                                    108
+8275&nbsp;-&nbsp;Annual Congress of MUD                                      104
+8355&nbsp;-&nbsp;Fermat's Optimization Problem                               102
+8508&nbsp;-&nbsp;Straight Master                                             100
+8499&nbsp;-&nbsp;Chat Grou                                                    99
+8211&nbsp;-&nbsp;Rabbits                                                      99
+8521&nbsp;-&nbsp;LOL                                                          98
+8086&nbsp;-&nbsp;Substring Sorting                                            96
+8139&nbsp;-&nbsp;National Disaster: Two Towers                                87
+8511&nbsp;-&nbsp;World Cup                                                    80
+8269&nbsp;-&nbsp;Family Gathering at Christmas                                78
+8321&nbsp;-&nbsp;Sim Card                                                     77
+8172&nbsp;-&nbsp;Cats and Fish                                                76
+8209&nbsp;-&nbsp;Little Boxes                                                 75
+8366&nbsp;-&nbsp;Secret of Chocolate Poles                                    73
+8136&nbsp;-&nbsp;Make a Forest                                                72
+8091&nbsp;-&nbsp;Happy Number                                                 70
+8134&nbsp;-&nbsp;Travelling Businessmen Problem                               65
+8143&nbsp;-&nbsp;Permutation                                                  63
+8368&nbsp;-&nbsp;Medical Checkup                                              63
+8138&nbsp;-&nbsp; Number Generator                                            61
+8144&nbsp;-&nbsp;Sacred Scarecrows                                            61
+8367&nbsp;-&nbsp;Parallel Lines                                               59
+8453&nbsp;-&nbsp;Rearrangement                                                55
+8274&nbsp;-&nbsp;Finding the Bases                                            54
+8489&nbsp;-&nbsp;Our Journey of Xian Ends                                     48
+8516&nbsp;-&nbsp;Naomi with Graph                                             47
+8488&nbsp;-&nbsp;Suffix                                                       42
+8501&nbsp;-&nbsp;Traffic Light                                                41
+8509&nbsp;-&nbsp;Downgrade                                                    41
+8487&nbsp;-&nbsp;The Squared Mosquito Coil                                    40
+8500&nbsp;-&nbsp;Scapegoat                                                    37
+8095&nbsp;-&nbsp;Rock Paper Scissors                                          36
+8360&nbsp;-&nbsp;Nearby Bicycles                                              36
+8342&nbsp;-&nbsp;Statistricks                                                 36
+8206&nbsp;-&nbsp;Heron and His Triangle                                       36
+8514&nbsp;-&nbsp;Naomi with Array                                             36
+8173&nbsp;-&nbsp;Secret Poems                                                 35
+8324&nbsp;-&nbsp;World Cup Draw                                               35
+8140&nbsp;-&nbsp;ANTS                                                         33
+8456&nbsp;-&nbsp;The Maximum Unreachable Node Set                             33
+8092&nbsp;-&nbsp;How Many to Be Happy?                                        30
+8510&nbsp;-&nbsp;SOS                                                          29
+8176&nbsp;-&nbsp;Colored Nodes                                                28
+8330&nbsp;-&nbsp;Getting Back Home                                            28
+8207&nbsp;-&nbsp;Infinite Fraction Path                                       26
+8502&nbsp;-&nbsp;Mr. Panda and Geometric Sequence                             25
+8124&nbsp;-&nbsp;Sum of Numbers                                               25
+8455&nbsp;-&nbsp;Twice Equation                                               24
+8212&nbsp;-&nbsp;Tree                                                         24
+8505&nbsp;-&nbsp;Image Recognition                                            23
+8359&nbsp;-&nbsp;Base Station Sites                                           23
+8358&nbsp;-&nbsp;Card collection                                              22
+8177&nbsp;-&nbsp;Pangu and Stones                                             21
+8094&nbsp;-&nbsp;Rectilinear Regions                                          21
+8088&nbsp;-&nbsp;Broadcast Stations                                           20
+8515&nbsp;-&nbsp;Islands                                                      20
+8504&nbsp;-&nbsp;Good Number                                                  19
+8268&nbsp;-&nbsp;Magic Sequence Pairs                                         18
+8090&nbsp;-&nbsp;Game Map                                                     17
+8093&nbsp;-&nbsp;Philosopher’s Walk                                         17
+8096&nbsp;-&nbsp;Slot Machines                                                17
+8201&nbsp;-&nbsp;BBP Formula                                                  17
+8175&nbsp;-&nbsp;Puzzle Game                                                  16
+8506&nbsp;-&nbsp;Mr. Panda and Birthday Song                                  16
+8356&nbsp;-&nbsp;Black and White                                              16
+8374&nbsp;-&nbsp;Starting a Scenic Railroad Service                           16
+8520&nbsp;-&nbsp;Acedia                                                       16
+8170&nbsp;-&nbsp;Graph                                                        14
+8174&nbsp;-&nbsp;Liaoning Ship's Voyage                                       14
+8361&nbsp;-&nbsp;Optimal Coin Change                                          14
+8452&nbsp;-&nbsp;Rake It In                                                   14
+8362&nbsp;-&nbsp;Sets                                                         13
+8483&nbsp;-&nbsp;Floppy Cube                                                  13
+8323&nbsp;-&nbsp;Border Wall                                                  12
+8312&nbsp;-&nbsp; Encryption                                                  12
+8363&nbsp;-&nbsp;Count the Even Integers                                      11
+8329&nbsp;-&nbsp;Cafe Bazaar                                                  11
+8486&nbsp;-&nbsp;Spacecraft                                                   10
+8098&nbsp;-&nbsp;Untangling Chain                                              9
+8503&nbsp;-&nbsp;Snakebird                                                     9
+8507&nbsp;-&nbsp;PLAYERUNKNOWN'S BATTLEGROUNDS                                 9
+8411&nbsp;-&nbsp;Appearance Count                                              9
+8203&nbsp;-&nbsp;Empty Convex Polygons                                         8
+8371&nbsp;-&nbsp;Pizza Delivery                                                8
+8414&nbsp;-&nbsp;Triangle Count                                                7
+8339&nbsp;-&nbsp;Nature Retreat                                                7
+8400&nbsp;-&nbsp;Find an element in hidden array                               6
+8089&nbsp;-&nbsp;Connect3                                                      6
+8492&nbsp;-&nbsp;Optimize The Slow Code                                        6
+8272&nbsp;-&nbsp;Wheel Connector                                               6
+8132&nbsp;-&nbsp;Book Reading Competition                                      6
+8335&nbsp;-&nbsp;Neighbor Identification                                       6
+8352&nbsp;-&nbsp;Kebab                                                         6
+8445&nbsp;-&nbsp;Attacker-Defender Game                                        6
+8390&nbsp;-&nbsp;Outlier with Box Plot                                         6
+8202&nbsp;-&nbsp;Bridge                                                        6
+8168&nbsp;-&nbsp;Domains                                                       5
+8353&nbsp;-&nbsp;Frickin' Heck                                                 5
+8446&nbsp;-&nbsp;The Ball                                                      5
+8450&nbsp;-&nbsp;Five Dimensional Discrete Fourier Transform                   5
+8370&nbsp;-&nbsp;Black or White                                                5
+8315&nbsp;-&nbsp;Stone                                                         5
+8169&nbsp;-&nbsp;K-Dimensional Foil                                            4
+8413&nbsp;-&nbsp;Club of Riders                                                4
+8349&nbsp;-&nbsp;Aqua Man's Aqua Room                                          4
+8448&nbsp;-&nbsp;The Champion                                                  4
+8399&nbsp;-&nbsp;Age Dilemma                                                   4
+8479&nbsp;-&nbsp;Battle in Two Pairs of Heroes                                 4
+8485&nbsp;-&nbsp;Pythagoras, One More Time                                     4
+8204&nbsp;-&nbsp;Defense of the Ancients                                       4
+8327&nbsp;-&nbsp;New Country Division                                          4
+8171&nbsp;-&nbsp;Chinese Checkers                                              3
+8408&nbsp;-&nbsp;Good and Bad Persons                                          3
+8447&nbsp;-&nbsp;Banned Patterns                                               3
+8451&nbsp;-&nbsp;The Game of Life                                              3
+8482&nbsp;-&nbsp;Enclosure of Land and Water                                   3
+8213&nbsp;-&nbsp;Wandering Robots                                              3
+8220&nbsp;-&nbsp;Proper Binary Tree                                            3
+8310&nbsp;-&nbsp;Enemy of my Enemy                                             3
+8311&nbsp;-&nbsp;Pixel Virus                                                   3
+8318&nbsp;-&nbsp;Anti Hash II                                                  3
+8319&nbsp;-&nbsp;Sigma Function (II)                                           3
+8433&nbsp;-&nbsp;Arranging Wine                                                2
+8141&nbsp;-&nbsp;XEN 3166                                                      2
+8347&nbsp;-&nbsp;Yumamma II                                                    2
+8484&nbsp;-&nbsp;Hex Game                                                      2
+8205&nbsp;-&nbsp;Five-round Show Hand                                          2
+8208&nbsp;-&nbsp;Legends of the Three Kingdoms                                 2
+8210&nbsp;-&nbsp;New Self-describing Sequence                                  2
+8403&nbsp;-&nbsp;Obtain Desired Expected Value                                 1
+8404&nbsp;-&nbsp;Codie Bird                                                    1
+8498&nbsp;-&nbsp;Organize The Wallet                                           1
+8357&nbsp;-&nbsp;Equivalence of Sudoku                                         1
+8364&nbsp;-&nbsp;Triangle                                                      1
+8131&nbsp;-&nbsp;Maximum Number                                                1
+8417&nbsp;-&nbsp;Palace of King                                                1
+8345&nbsp;-&nbsp;Weird Keyboard                                                1
+8391&nbsp;-&nbsp;The Frog Game                                                 1
+8481&nbsp;-&nbsp;Collecting Cents                                              1
+8369&nbsp;-&nbsp;Making Perimeter of the Convex Hull Shortest                  1
+8376&nbsp;-&nbsp;Counting Cycles                                               1
+8314&nbsp;-&nbsp;Optimization                                                  1
+8401&nbsp;-&nbsp;Chef and Deforestation                                        0
+8402&nbsp;-&nbsp;Black and Red vertices of Tree                                0
+8405&nbsp;-&nbsp;Area of an amazing figure                                     0
+8406&nbsp;-&nbsp;Method Resolution Order                                       0
+8407&nbsp;-&nbsp;Vertex Cover                                                  0
+8409&nbsp;-&nbsp;Chef Counts Semi-BSTs                                         0
+8410&nbsp;-&nbsp;Minimize the string                                           0
+8097&nbsp;-&nbsp;Strongly Matchable                                            0
+8099&nbsp;-&nbsp;Vacation Plans                                                0
+8490&nbsp;-&nbsp;Chef and Triangles                                            0
+8491&nbsp;-&nbsp;Queries on tree again                                         0
+8493&nbsp;-&nbsp;Coupon System                                                 0
+8494&nbsp;-&nbsp;Proprietary Probabilistic Problem                             0
+8495&nbsp;-&nbsp;Find Lighted Area                                             0
+8496&nbsp;-&nbsp;A Tale of Three Squares                                       0
+8497&nbsp;-&nbsp;A Tale of Two Right Angled Triangles                          0
+8434&nbsp;-&nbsp;Barcode                                                       0
+8435&nbsp;-&nbsp;Cu Chi Tunnels                                                0
+8436&nbsp;-&nbsp;Dropping Ball                                                 0
+8437&nbsp;-&nbsp;Engaging with Loyal Customers                                 0
+8438&nbsp;-&nbsp;Famous Pagoda                                                 0
+8439&nbsp;-&nbsp;Game of Divisibility                                          0
+8440&nbsp;-&nbsp;Height Preservation                                           0
+8441&nbsp;-&nbsp;ICPC Awards                                                   0
+8442&nbsp;-&nbsp;Joining Networks                                              0
+8443&nbsp;-&nbsp;K-Rotating                                                    0
+8444&nbsp;-&nbsp;Land Inheritance                                              0
+8365&nbsp;-&nbsp;Marine                                                        0
+8137&nbsp;-&nbsp;Parks of Jakarta                                              0
+8125&nbsp;-&nbsp;Kabul Post Company                                            0
+8126&nbsp;-&nbsp;Police                                                        0
+8127&nbsp;-&nbsp;Chess Board                                                   0
+8128&nbsp;-&nbsp;Grouping Symbols                                              0
+8129&nbsp;-&nbsp;Personal Currency Exchange                                    0
+8130&nbsp;-&nbsp;Petrol Station                                                0
+8422&nbsp;-&nbsp;Science Fair                                                  0
+8423&nbsp;-&nbsp;Black Discs                                                   0
+8424&nbsp;-&nbsp;Uniform Strings                                               0
+8425&nbsp;-&nbsp;SAD Queries                                                   0
+8426&nbsp;-&nbsp;Chef and XOR Queries                                          0
+8427&nbsp;-&nbsp;Taxi Making Sharp Turns                                       0
+8428&nbsp;-&nbsp;Spam Classification Using Neural Net                          0
+8429&nbsp;-&nbsp;Non Overlapping Segments                                      0
+8430&nbsp;-&nbsp;Spanning Tree                                                 0
+8431&nbsp;-&nbsp;Generating A Permutation                                      0
+8432&nbsp;-&nbsp;Number Game                                                   0
+8412&nbsp;-&nbsp;Get The Gold                                                  0
+8415&nbsp;-&nbsp;Password Riddle                                               0
+8416&nbsp;-&nbsp;Huge Number of Trees                                          0
+8418&nbsp;-&nbsp;Unpredictable Array                                           0
+8419&nbsp;-&nbsp;Secrets                                                       0
+8420&nbsp;-&nbsp;Reached Safely Or Not                                         0
+8421&nbsp;-&nbsp;Raw Power                                                     0
+8332&nbsp;-&nbsp;Violent Numbers                                               0
+8333&nbsp;-&nbsp;Malicious Strings                                             0
+8334&nbsp;-&nbsp;Beautiful Face                                                0
+8336&nbsp;-&nbsp;Walk on a Tree                                                0
+8337&nbsp;-&nbsp;Protein Synthesis                                             0
+8338&nbsp;-&nbsp;Non-Quantum Entanglement                                      0
+8340&nbsp;-&nbsp;Decode Rolex Fan Code                                         0
+8341&nbsp;-&nbsp;Separation of Chemical Components                             0
+8343&nbsp;-&nbsp;Fashionista                                                   0
+8344&nbsp;-&nbsp;Bananas in Pajamas                                            0
+8346&nbsp;-&nbsp;Agents of Shield                                              0
+8348&nbsp;-&nbsp;Win                                                           0
+8350&nbsp;-&nbsp;Rainbow Dash                                                  0
+8351&nbsp;-&nbsp;Bato Bato Split                                               0
+8354&nbsp;-&nbsp;Danielrad Cliff                                               0
+8454&nbsp;-&nbsp;Resonators                                                    0
+8388&nbsp;-&nbsp;Chemical Bothers                                              0
+8389&nbsp;-&nbsp;Festival in City                                              0
+8392&nbsp;-&nbsp;Alchemist                                                     0
+8393&nbsp;-&nbsp;None Shall Pass                                               0
+8394&nbsp;-&nbsp;Football Player                                               0
+8395&nbsp;-&nbsp;Optimal Radio Station                                         0
+8396&nbsp;-&nbsp;Honeycomb                                                     0
+8397&nbsp;-&nbsp;Binary Search Tree                                            0
+8398&nbsp;-&nbsp;Optimal Binary Subtree                                        0
+8326&nbsp;-&nbsp;Homotopic Paths                                               0
+8372&nbsp;-&nbsp;Rendezvous on a Tetrahedron                                   0
+8373&nbsp;-&nbsp;Homework                                                      0
+8375&nbsp;-&nbsp;String Puzzle                                                 0
+8313&nbsp;-&nbsp;Stars                                                         0
+8316&nbsp;-&nbsp;Sum Square                                                    0
+8317&nbsp;-&nbsp;Hyperloop                                                     0
+8320&nbsp;-&nbsp;Squares in a Regular Pentagon                                 0
